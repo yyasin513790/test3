@@ -41,15 +41,86 @@
     color: black;
   }
 body{
-background-color: green;
+background-color: rgb(113, 157, 99);
 }
 #kok{
-width: 400px;
+width: 1000px;
 position: relative;
-left: 500px;
+left: 250px;
 }
 #kok2{
 width: 220px;
 position: relative;
-left: 70px;
+left: 0px;
+}
+#groend{
+width: 70px;
+position: relative;
+left: 20px;
+}
+#min{
+width: 250px;
+position: relative;
+left: 30px;
+top: -50px;
+}
+#min1{
+width: 250px;
+position: relative;
+left: 110px;
+top: -35px;
+}
+#min3{
+width: 290px;
+left: 190px;
+position: relative;
+top: -35px;
+}
+#val{
+width: 275px;
+position: relative;
+left: -95px;
+top: 150px;
+}
+#val1{
+width: 270px;
+position: relative;
+left: -717px;
+top: 150px;
+}
+#val3{
+width: 260px;
+position: relative;
+left: 30px;
+top: 0px;
+}
+#fam{
+width: 250px;
+position: relative;
+left: 0px;
+top: 0x;
+}
+#kokk{
+width: 850px;
+position: relative;
+left: 250px;
+top: 60px;
+}
+#hond1{
+width: 200px;
+position: relative;
+left: 10px;
+top: -80px;
+}
+#kat{
+width: 160px;
+position: relative;
+left: 100px;
+top: -30px;
+}
+#yt{
+width: 260px;
+position: relative;
+left: 40px;
+top: -30px;
 }
